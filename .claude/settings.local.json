@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php -l:*)",
+      "Bash(ren:*)",
+      "Bash(php setup_leave_management.php:*)",
+      "Bash(php -r:*)",
+      "Bash(php check_permissions_table.php:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
